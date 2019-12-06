@@ -1,0 +1,963 @@
+{
+    "data": [
+        {
+            "CategoryName": "Referandum",
+            "CategoryType": "referandum",
+            "Title": "Yav sen gerizekalı mısın",
+            "SoundName": "rte_send1511598423634",
+            "Index": 19
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Ders çalış ders",
+            "SoundName": "rte_send1511548477157",
+            "Index": 3
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Sen kimsin ya",
+            "SoundName": "rte_send1511548644963",
+            "Index": 5
+        },
+        {
+            "CategoryName": "Uluslararası",
+            "CategoryType": "uluslararasi",
+            "Title": "Şu terbiyesize bak ya",
+            "SoundName": "rte_send1511561025634",
+            "Index": 32
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Selamun aleyküm",
+            "SoundName": "rte_send1511546473113",
+            "Index": 19
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Ve Aleyküm selam",
+            "SoundName": "rte_send1511546486935",
+            "Index": 20
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Bıktık ya bıktık",
+            "SoundName": "rte_send1511548310137",
+            "Index": 1
+        },
+        {
+            "CategoryName": "Meydan 2",
+            "CategoryType": "meydan2",
+            "Title": "3 değil 5 çocuk yapın",
+            "SoundName": "bes_cocuk_yapin",
+            "Index": 29
+          },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Günaydın",
+            "SoundName": "rte_send1511546210012",
+            "Index": 1
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Hayırlı geceler",
+            "SoundName": "rte_send1511546817579",
+            "Index": 37
+        },
+        {
+            "CategoryName": "Ekonomi",
+            "CategoryType": "ekonomi",
+            "Title": "Money money money",
+            "SoundName": "rte_send1511597126311",
+            "Index": 3
+        },
+        {
+            "CategoryName": "15 Temmuz",
+            "CategoryType": "temmuz",
+            "Title": "Topunuz gelin",
+            "SoundName": "rte_send1511598004864",
+            "Index": 12
+        },
+        {
+            "CategoryName": "Meydan 3",
+            "CategoryType": "meydan3",
+            "Title": "Kadere bak kimler kimlerle beraber",
+            "SoundName": "rte_send1511890625954",
+            "Index": 16
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Çaylar daha gelmedi mi?",
+            "SoundName": "caylar_daha_gelmedimi",
+            "Index": 29
+        },
+        {
+            "CategoryName": "Meydan",
+            "CategoryType": "meydan",
+            "Title": "Onların doları varsa bizim Allah'ımız var",
+            "SoundName": "onlarin_dolari_varsa_bizim_allahimiz_var",
+            "Index": 39
+        },
+        {
+            "CategoryName": "Muhalefet",
+            "CategoryType": "muhalefet",
+            "Title": "Bana bak Muharrem",
+            "SoundName": "bana_bak_muharrem",
+            "Index": 2
+        },
+        {
+            "CategoryName": "Muhalefet",
+            "CategoryType": "muhalefet",
+            "Title": "Bay Kemal",
+            "SoundName": "bay_kemal",
+            "Index": 1
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Yalan konuşma be",
+            "SoundName": "rte_send1511548340722",
+            "Index": 14
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Eyvallah eyvallah",
+            "SoundName": "rte_send1511546805616",
+            "Index": 4
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Ben seni var ya bu kadar seviyorum",
+            "SoundName": "rte_send1511548380849",
+            "Index": 2
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Sanane ya",
+            "SoundName": "rte_send1511548537549",
+            "Index": 4
+        },
+        {
+            "CategoryName": "Meclis",
+            "CategoryType": "meclis",
+            "Title": "Çok konuşuyorsun",
+            "SoundName": "rte_send1511557041097",
+            "Index": 4
+        },
+        {
+            "CategoryName": "Bunlar ...",
+            "CategoryType": "bunlar",
+            "Title": "Bunlar sapık yav",
+            "SoundName": "rte_send1511890990381",
+            "Index": 9
+        },
+        {
+            "CategoryName": "Muhalefet",
+            "CategoryType": "muhalefet",
+            "Title": "Gene çaktın",
+            "SoundName": "rte_send1511559281702",
+            "Index": 16
+        },
+        {
+            "CategoryName": "Basın",
+            "CategoryType": "basin",
+            "Title": "Rahatsız mı oldun",
+            "SoundName": "rte_send1511596725547",
+            "Index": 11
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Neredesin?",
+            "SoundName": "rte_send1511546869971",
+            "Index": 41
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Geciktim hakkınızı helal edin",
+            "SoundName": "rte_send1511546893405",
+            "Index": 43
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Nadanı terk etmedin yaranı arzularsın",
+            "SoundName": "rte_send1511548500312",
+            "Index": 13
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Seni gönül dolusu muhabbetle selamlıyorum",
+            "SoundName": "rte_send1511546605245",
+            "Index": 14
+        },
+        {
+            "CategoryName": "Genel 1",
+            "CategoryType": "genel1",
+            "Title": "Eğer racon kesilecekse bu raconu bizzat kendim keserim",
+            "SoundName": "rte_new_21",
+            "Index": 21
+        },
+        {
+            "CategoryName": "Meclis",
+            "CategoryType": "meclis",
+            "Title": "Siz mi susturacaksınız ben mi susturayım",
+            "SoundName": "rte_send1511557064161",
+            "Index": 6
+        },
+        {
+            "CategoryName": "Uluslararası",
+            "CategoryType": "uluslararasi",
+            "Title": "Onların iPhone'u varsa öbür tarafta Samsung var",
+            "SoundName": "onlarin_iphoneu_varsa_samsung_var",
+            "Index": 40
+        },
+        {
+            "CategoryName": "Muhalefet",
+            "CategoryType": "muhalefet",
+            "Title": "Akşam yalan sabah yalan",
+            "SoundName": "aksam_yalan_sabah_yalan",
+            "Index": 1
+        },
+        {
+            "CategoryName": "Eyy...",
+            "CategoryType": "eyy",
+            "Title": "Ey Amerika",
+            "SoundName": "ey_amerika",
+            "Index": 45
+        },
+        {
+            "CategoryName": "Genel 4",
+            "CategoryType": "genel4",
+            "Title": "Beyler",
+            "SoundName": "beyler",
+            "Index": 29
+        },
+        {
+            "CategoryName": "Genel 3",
+            "CategoryType": "genel3",
+            "Title": "Kiloyu vereceksin ha o kilo çok",
+            "SoundName": "rte_send1511550762146",
+            "Index": 5
+        },
+        {
+            "CategoryName": "Genel 3",
+            "CategoryType": "genel3",
+            "Title": "Ciddi mi?",
+            "SoundName": "ciddimi",
+            "Index": 30
+        },
+        {
+            "CategoryName": "Muhalefet",
+            "CategoryType": "muhalefet",
+            "Title": "Sen çok fakirsinya sana vereceğim",
+            "SoundName": "sen_fakirsinya",
+            "Index": 29
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Aferim öğreniyorsun bir şeyleri",
+            "SoundName": "rte_new_1",
+            "Index": 1
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Hadi oradan ahlaksız",
+            "SoundName": "rte_send1511548797811",
+            "Index": 15
+        },
+        {
+            "CategoryName": "Bunlar ...",
+            "CategoryType": "bunlar",
+            "Title": "Bunlar gerçekten dört dörtlük cahil",
+            "SoundName": "rte_send1511890919249",
+            "Index": 1
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Cuma gününü tebrik ediyorum",
+            "SoundName": "rte_send1511547107273",
+            "Index": 10
+        },
+        {
+            "CategoryName": "Uluslararası",
+            "CategoryType": "uluslararasi",
+            "Title": "Kimsin sen ya",
+            "SoundName": "rte_send1511561060807",
+            "Index": 36
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Hadi gülüm yandan yandan",
+            "SoundName": "rte_send1511548813455",
+            "Index": 6
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Sizleri seviyorum",
+            "SoundName": "rte_send1511546988835",
+            "Index": 13
+        },
+        {
+            "CategoryName": "Genel 3",
+            "CategoryType": "genel3",
+            "Title": "Sigara içmek öldürür",
+            "SoundName": "sigara_icmek_oldurur",
+            "Index": 29
+        },
+        {
+            "CategoryName": "Muhalefet",
+            "CategoryType": "muhalefet",
+            "Title": "Bay Muharrem",
+            "SoundName": "bay_muharrem",
+            "Index": 2
+        },
+        {
+            "CategoryName": "Karadeniz Ağzı",
+            "CategoryType": "karadeniz",
+            "Title": "Oy benum sevdiceğum",
+            "SoundName": "rte_send1511597737104",
+            "Index": 9
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Seni saygıyla selamlıyorum",
+            "SoundName": "rte_send1511546591444",
+            "Index": 27
+        },
+        {
+            "CategoryName": "Bunlar ...",
+            "CategoryType": "bunlar",
+            "Title": "Bunlar Ateist",
+            "SoundName": "rte_send1511891127245",
+            "Index": 20
+        },
+        {
+            "CategoryName": "İsimler",
+            "CategoryType": "isimler",
+            "Title": "Sapık ya",
+            "SoundName": "rte_send1513020259674",
+            "Index": 13
+        },
+        {
+            "CategoryName": "Meydan",
+            "CategoryType": "meydan",
+            "Title": "Şu yaptığınız şeyler çok yanlış",
+            "SoundName": "yaptiginiz_seyler_cok_yanlis",
+            "Index": 46
+        },
+        {
+            "CategoryName": "Meydan 2",
+            "CategoryType": "meydan2",
+            "Title": "Bu dolarları çıkarın",
+            "SoundName": "bu_dolarlari_cikarin",
+            "Index": 18
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Aaa",
+            "SoundName": "aaa",
+            "Index": 2
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Ben senin eeeee",
+            "SoundName": "rte_send1511548861234",
+            "Index": 30
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Allah kabul etsin",
+            "SoundName": "rte_send1511547083738",
+            "Index": 11
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Vah zavallı vah",
+            "SoundName": "rte_send1511548299257",
+            "Index": 3
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Teşekkür ediyorum",
+            "SoundName": "rte_send1511546522194",
+            "Index": 23
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Geç kalıyorsun geç",
+            "SoundName": "rte_send1511546841894",
+            "Index": 5
+        },
+        {
+            "CategoryName": "Meclis",
+            "CategoryType": "meclis",
+            "Title": "Onu özele gelirsin anlatırım sana",
+            "SoundName": "rte_send1511557072957",
+            "Index": 7
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Gençler gençler",
+            "SoundName": "rte_send1511548468478",
+            "Index": 11
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Ne diyor bu adam ya",
+            "SoundName": "rte_send1511548581135",
+            "Index": 18
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Kızlar kızlar",
+            "SoundName": "rte_send1511548527256",
+            "Index": 15
+        },
+        {
+            "CategoryName": "Meclis",
+            "CategoryType": "meclis",
+            "Title": "Lütfen susar mısınız lütfen",
+            "SoundName": "rte_send1511557151294",
+            "Index": 13
+        },
+        {
+            "CategoryName": "Uluslararası",
+            "CategoryType": "uluslararasi",
+            "Title": "One minute",
+            "SoundName": "rte_send1511560564069",
+            "Index": 1
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Bak bak bak",
+            "SoundName": "rte_send1511547486666",
+            "Index": 8
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Tamam",
+            "SoundName": "rte_send1511546356719",
+            "Index": 10
+        },
+        {
+            "CategoryName": "Basın",
+            "CategoryType": "basin",
+            "Title": "Ulan hepiniz oradaydınız be",
+            "SoundName": "rte_send1511596707695",
+            "Index": 9
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Edep ya hu",
+            "SoundName": "rte_send1511547144020",
+            "Index": 9
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Kafaya bak ya",
+            "SoundName": "rte_send1511548849201",
+            "Index": 16
+        },
+        {
+            "CategoryName": "Muhalefet",
+            "CategoryType": "muhalefet",
+            "Title": "Buna beş koyun verin kaybeder gelir",
+            "SoundName": "rte_send1511559214483",
+            "Index": 11
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Çok ayıp oluyor",
+            "SoundName": "rte_new_4",
+            "Index": 4
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Sizene ya",
+            "SoundName": "rte_send1511547452128",
+            "Index": 6
+        },
+        {
+            "CategoryName": "Meydan",
+            "CategoryType": "meydan",
+            "Title": "Yav gezseniz yine kar hep yatıyorsunuz",
+            "SoundName": "rte_send1511559871635",
+            "Index": 22
+        },
+        {
+            "CategoryName": "Genel 1",
+            "CategoryType": "genel1",
+            "Title": "Bak neler söylüyor neler",
+            "SoundName": "rte_send1511547650027",
+            "Index": 2
+        },
+        {
+            "CategoryName": "Karadeniz Ağzı",
+            "CategoryType": "karadeniz",
+            "Title": "Bi dur da bi dur",
+            "SoundName": "rte_send1511597701700",
+            "Index": 5
+        },
+        {
+            "CategoryName": "Basın",
+            "CategoryType": "basin",
+            "Title": "Delikanlı olun çiğerimi yiyin",
+            "SoundName": "rte_send1511596696259",
+            "Index": 8
+        },
+        {
+            "CategoryName": "Genel 3",
+            "CategoryType": "genel3",
+            "Title": "Ya ayıp be",
+            "SoundName": "rte_send1511550971922",
+            "Index": 13
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Ne alakası var",
+            "SoundName": "rte_new_35",
+            "Index": 35
+        },
+        {
+            "CategoryName": "Genel 1",
+            "CategoryType": "genel1",
+            "Title": "Ne yapayım ben bunu",
+            "SoundName": "rte_send1511547660691",
+            "Index": 3
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Dersini çalışmıyor bu",
+            "SoundName": "rte_send1511548408304",
+            "Index": 9
+        },
+        {
+            "CategoryName": "Meydan",
+            "CategoryType": "meydan",
+            "Title": "Sizi gidi geziciler sizi",
+            "SoundName": "rte_send1511559862778",
+            "Index": 21
+        },
+        {
+            "CategoryName": "Muhalefet",
+            "CategoryType": "muhalefet",
+            "Title": "Zaten tek doğru lafın o",
+            "SoundName": "rte_send1511559481337",
+            "Index": 25
+        },
+        {
+            "CategoryName": "Genel 1",
+            "CategoryType": "genel1",
+            "Title": "Bu ne biçim iştir ya",
+            "SoundName": "rte_send1511547855630",
+            "Index": 14
+        },
+        {
+            "CategoryName": "Uluslararası",
+            "CategoryType": "uluslararasi",
+            "Title": "Bir gece ansızın gelebiliriz",
+            "SoundName": "rte_send1511560781249",
+            "Index": 11
+        },
+        {
+            "CategoryName": "Genel 1",
+            "CategoryType": "genel1",
+            "Title": "Size ne ya",
+            "SoundName": "rte_send1511547892471",
+            "Index": 17
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Eyvallah",
+            "SoundName": "eyvallah",
+            "Index": 29
+          },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Yok ya",
+            "SoundName": "rte_send1511547206345",
+            "Index": 64
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Maaşallah Allah nazardan saklasın",
+            "SoundName": "rte_send1511548290511",
+            "Index": 2
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Aman yarabbi",
+            "SoundName": "rte_send1511547403863",
+            "Index": 77
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Neyy",
+            "SoundName": "rte_send1511547229418",
+            "Index": 66
+        },
+        {
+            "CategoryName": "Muhalefet",
+            "CategoryType": "muhalefet",
+            "Title": "Ben konuşacağım sen dinleyeceksin",
+            "SoundName": "rte_new_11",
+            "Index": 11
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Hele hele",
+            "SoundName": "rte_send1511546791256",
+            "Index": 35
+        },
+        {
+            "CategoryName": "Referandum",
+            "CategoryType": "referandum",
+            "Title": "Evet evet evet",
+            "SoundName": "rte_send1511598062212",
+            "Index": 1
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Yazıklar olsun",
+            "SoundName": "rte_send1511548331348",
+            "Index": 5
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "İşine bak ya",
+            "SoundName": "rte_new_32",
+            "Index": 32
+        },
+        {
+            "CategoryName": "Eyy...",
+            "CategoryType": "eyy",
+            "Title": "Eyy Kemal",
+            "SoundName": "rte_send1511597520909",
+            "Index": 15
+        },
+        {
+            "CategoryName": "Eyy...",
+            "CategoryType": "eyy",
+            "Title": "Eyy kardeşlerim",
+            "SoundName": "rte_send1511597343480",
+            "Index": 11
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Maaşalahınız var",
+            "SoundName": "rte_send1511546827651",
+            "Index": 38
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Özür diliyorum",
+            "SoundName": "rte_send1511546958120",
+            "Index": 47
+        },
+        {
+            "CategoryName": "Basın",
+            "CategoryType": "basin",
+            "Title": "Kimler kimlerle el tutuştu",
+            "SoundName": "rte_send1511596912813",
+            "Index": 15
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Evet",
+            "SoundName": "rte_send1511546255332",
+            "Index": 3
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Hayır",
+            "SoundName": "rte_send1511546267069",
+            "Index": 4
+        },
+        {
+            "CategoryName": "Muhalefet",
+            "CategoryType": "muhalefet",
+            "Title": "Salla tutar demişler",
+            "SoundName": "rte_send1511559262730",
+            "Index": 14
+        },
+        {
+            "CategoryName": "Referandum",
+            "CategoryType": "referandum",
+            "Title": "Yunan mı ulan bu",
+            "SoundName": "rte_send1511598128267",
+            "Index": 6
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Bakalım göreceğiz",
+            "SoundName": "rte_send1511547441808",
+            "Index": 80
+        },
+        {
+            "CategoryName": "Avrupa",
+            "CategoryType": "avrupa",
+            "Title": "Faşistsiniz faşist",
+            "SoundName": "rte_send1511596464279",
+            "Index": 7
+        },
+        {
+            "CategoryName": "Muhalefet",
+            "CategoryType": "muhalefet",
+            "Title": "Benim adım hıdır",
+            "SoundName": "rte_send1511559112718",
+            "Index": 4
+        },
+        {
+            "CategoryName": "Genel 4",
+            "CategoryType": "genel4",
+            "Title": "Biz biliriz biz",
+            "SoundName": "rte_send1511556218334",
+            "Index": 4
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Boş çıktı boş",
+            "SoundName": "rte_new_14",
+            "Index": 14
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Dersini çalışmamış",
+            "SoundName": "rte_send1511548455287",
+            "Index": 10
+        },
+        {
+            "CategoryName": "Genel 1",
+            "CategoryType": "genel1",
+            "Title": "Öldürdü beni be maşşallah",
+            "SoundName": "rte_send1511547672203",
+            "Index": 4
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Ciddi mi diyorsun?",
+            "SoundName": "rte_send1511547327056",
+            "Index": 71
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Tebrik ediyorum",
+            "SoundName": "rte_send1511546533933",
+            "Index": 24
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Allah'a emanet olun",
+            "SoundName": "rte_send1511546905788",
+            "Index": 44
+        },
+        {
+            "CategoryName": "Genel 1",
+            "CategoryType": "genel1",
+            "Title": "Geçin artık bunları geçin",
+            "SoundName": "rte_send1511547876265",
+            "Index": 16
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "İnşallah",
+            "SoundName": "rte_send1511546277945",
+            "Index": 5
+        },
+        {
+            "CategoryName": "Genel 3",
+            "CategoryType": "genel3",
+            "Title": "Dürüst ol dürüst",
+            "SoundName": "rte_send1511551257191",
+            "Index": 40
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Ne oldu",
+            "SoundName": "rte_send1511546434898",
+            "Index": 16
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Anlayamadım",
+            "SoundName": "rte_send1511546368517",
+            "Index": 11
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Geliyorum şimdi",
+            "SoundName": "rte_send1511546881843",
+            "Index": 42
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Ah ah",
+            "SoundName": "rte_send1511547464230",
+            "Index": 82
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Geldik ve geliyoruz",
+            "SoundName": "rte_afrin_16",
+            "Index": 5
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Değerli dostlar",
+            "SoundName": "rte_send1511546621471",
+            "Index": 29
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Kusura bakma",
+            "SoundName": "rte_send1511546425035",
+            "Index": 15
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Bilemiyorum",
+            "SoundName": "rte_send1511547523989",
+            "Index": 86
+        },
+        {
+            "CategoryName": "Genel 1",
+            "CategoryType": "genel1",
+            "Title": "Zor geliyor kardaşım",
+            "SoundName": "rte_send1511547719507",
+            "Index": 8
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Sloganik konuşmayalım",
+            "SoundName": "rte_send1511546929260",
+            "Index": 46
+        },
+        {
+            "CategoryName": "Genel 4",
+            "CategoryType": "genel4",
+            "Title": "Eline diline dursun be",
+            "SoundName": "rte_send1511556197285",
+            "Index": 3
+        },
+        {
+            "CategoryName": "Muhalefet",
+            "CategoryType": "muhalefet",
+            "Title": "Bekara karı boşamak kolay",
+            "SoundName": "rte_send1511559189456",
+            "Index": 9
+        },
+        {
+            "CategoryName": "Meclis",
+            "CategoryType": "meclis",
+            "Title": "İşte bu olmadı",
+            "SoundName": "rte_send1511557120536",
+            "Index": 11
+        },
+        {
+            "CategoryName": "Genel 2",
+            "CategoryType": "genel2",
+            "Title": "Bene bak arkideş",
+            "SoundName": "rte_send1511548886759",
+            "Index": 32
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Hanımefendiler",
+            "SoundName": "rte_send1511546762328",
+            "Index": 33
+        },
+        {
+            "CategoryName": "Ekonomi",
+            "CategoryType": "ekonomi",
+            "Title": "Soydun soğana çevirdin ya",
+            "SoundName": "rte_send1511597140423",
+            "Index": 5
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Beyefendiler",
+            "SoundName": "rte_send1511546773736",
+            "Index": 34
+        },
+        {
+            "CategoryName": "Muhalefet",
+            "CategoryType": "muhalefet",
+            "Title": "Niye rahatsız oluyorsun",
+            "SoundName": "rte_send1511559179920",
+            "Index": 8
+        },
+        {
+            "CategoryName": "Gündelik",
+            "CategoryType": "gundelik",
+            "Title": "Olmaz, olmaz",
+            "SoundName": "rte_send1511547195056",
+            "Index": 63
+        }
+    ]
+}
